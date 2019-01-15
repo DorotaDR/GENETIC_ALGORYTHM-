@@ -1,0 +1,30 @@
+DayActions: 
+Start factors:
+y = 91    		a = -7.02
+
+Collection:
+Sleep:
+START:   2h  6min	STOP:  8h 56min
+y = 100   		a = -0.18975
+Length:  6h 50min
+Coffee:
+START:   9h 34min	STOP:  9h 34min
+y = 96.7895		a = -0.147677
+Portion:    486ml
+Coffee:
+START:  11h 31min	STOP: 11h 31min
+y = 84.8964		a = -0.121569
+Portion:    879ml
+Coffee:
+START:  12h 59min	STOP: 12h 59min
+y = 76.1983		a = -0.112555
+Portion:    135ml
+Sleep:
+START:  16h 56min	STOP: 20h  4min
+y = 100   		a = -0.59268
+Length:  3h  8min
+Sleep:
+START:  20h 53min	STOP: 23h 41min
+y = 100   		a = -0.66528
+Length:  2h 48min
+goal function value: 29.133422

@@ -1,0 +1,862 @@
+DayActions: 
+Start factors:
+y = 0     		a = -0.1 
+
+Collection:
+Sleep:
+START:  15h 23min	STOP: 18h 23min
+y = 100   		a = -0.621
+Length:  3h  0min
+goal function value: 6.563574
+DayActions: 
+Start factors:
+y = 61    		a = -3.977
+
+Collection:
+Coffee:
+START:  10h 15min	STOP: 10h 15min
+y = 6.78233		a = -2.92462
+Portion:   1396ml
+Coffee:
+START:  10h 29min	STOP: 10h 29min
+y = 1.73205		a = -2.72503
+Portion:    104ml
+Sleep:
+START:  13h 53min	STOP: 23h 27min
+y = 100   		a = -0.36687
+Length:  9h 34min
+goal function value: 2.449843
+DayActions: 
+Start factors:
+y = 15    		a = -9.217
+
+Collection:
+Sleep:
+START:   1h  9min	STOP:  2h 29min
+y = 100   		a = -1.056
+Length:  1h 20min
+Coffee:
+START:   2h 40min	STOP:  2h 40min
+y = 94.8647		a = -0.781959
+Portion:   1263ml
+Coffee:
+START:   3h 48min	STOP:  3h 48min
+y = 44.3373		a = -0.711018
+Portion:    237ml
+Sleep:
+START:   4h 19min	STOP: 15h 45min
+y = 100   		a = -0.71967
+Length: 11h 26min
+Sleep:
+START:  16h 32min	STOP: 18h 54min
+y = 100   		a = -0.76863
+Length:  2h 22min
+Sleep:
+START:  18h 57min	STOP: 21h 10min
+y = 100   		a = -0.806768
+Length:  2h 13min
+Sleep:
+START:  21h 22min	STOP: 22h 55min
+y = 100   		a = -0.990968
+Length:  1h 33min
+goal function value: 11.319241
+DayActions: 
+Start factors:
+y = 38    		a = -9.652
+
+Collection:
+Coffee:
+START:   2h 20min	STOP:  2h 20min
+y = 5.19615		a = -7.33049
+Portion:    827ml
+Coffee:
+START:   5h 38min	STOP:  5h 38min
+y = 4.69042		a = -6.26706
+Portion:    673ml
+Sleep:
+START:  14h 59min	STOP: 17h 59min
+y = 100   		a = -0.621
+Length:  3h  0min
+goal function value: 5.571821
+DayActions: 
+Start factors:
+y = 77    		a = -2.883
+
+Collection:
+Coffee:
+START:   0h 28min	STOP:  0h 28min
+y = 3.31662		a = -2.27331
+Portion:    338ml
+Coffee:
+START:   1h 33min	STOP:  1h 33min
+y = 6     		a = -1.82403
+Portion:   1084ml
+Sleep:
+START:   2h 34min	STOP: 10h 37min
+y = 100   		a = -0.218768
+Length:  8h  3min
+Coffee:
+START:  11h 36min	STOP: 11h 36min
+y = 88.5069		a = -0.205044
+Portion:     78ml
+Sleep:
+START:  13h 13min	STOP: 13h 56min
+y = 100   		a = -1.25497
+Length:  0h 43min
+Sleep:
+START:  14h 54min	STOP: 23h 59min
+y = 100   		a = -0.306188
+Length:  9h  5min
+goal function value: 12.330191
+DayActions: 
+Start factors:
+y = 90    		a = -5.965
+
+Collection:
+Sleep:
+START:   2h 23min	STOP: 12h  2min
+y = 100   		a = -0.378608
+Length:  9h 39min
+Sleep:
+START:  14h 55min	STOP: 16h 48min
+y = 100   		a = -0.895868
+Length:  1h 53min
+Coffee:
+START:  17h 24min	STOP: 17h 24min
+y = 74.6044		a = -0.657771
+Portion:   1427ml
+Coffee:
+START:  21h  3min	STOP: 21h  3min
+y = 1.41421		a = -0.617259
+Portion:     73ml
+goal function value: 13.433244
+DayActions: 
+Start factors:
+y = 22    		a = -2.61
+
+Collection:
+Coffee:
+START:  11h 38min	STOP: 11h 38min
+y = 5.19615		a = -1.983
+Portion:    821ml
+Coffee:
+START:  12h  9min	STOP: 12h  9min
+y = 3.4641		a = -1.7373
+Portion:    363ml
+Sleep:
+START:  13h 22min	STOP: 19h 52min
+y = 100   		a = -0.19575
+Length:  6h 30min
+goal function value: 13.189845
+DayActions: 
+Start factors:
+y = 94    		a = -2.005
+
+Collection:
+Sleep:
+START:   0h 19min	STOP:  0h 40min
+y = 100   		a = -1.38301
+Length:  0h 21min
+Coffee:
+START:   1h 38min	STOP:  1h 38min
+y = 21.1998		a = -1.13173
+Portion:     60ml
+Coffee:
+START:   2h 51min	STOP:  2h 51min
+y = 3     		a = -0.924253
+Portion:    290ml
+Coffee:
+START:   4h 18min	STOP:  4h 18min
+y = 6.16441		a = -0.739734
+Portion:   1150ml
+Sleep:
+START:   5h 25min	STOP: 21h  9min
+y = 100   		a = -2.24832
+Length: 15h 44min
+goal function value: 5.029440
+DayActions: 
+Start factors:
+y = 86    		a = -4.359
+
+Collection:
+Coffee:
+START:   0h 22min	STOP:  0h 22min
+y = 5.2915		a = -3.30177
+Portion:    869ml
+Sleep:
+START:   0h 22min	STOP: 23h 55min
+y = 100   		a = -7.58437
+Length: 23h 33min
+goal function value: 1.273674
+DayActions: 
+Start factors:
+y = 30    		a = -1.42
+
+Collection:
+Sleep:
+START:   0h 53min	STOP: 20h 16min
+y = 100   		a = -4.32937
+Length: 19h 23min
+Coffee:
+START:  20h 30min	STOP: 20h 30min
+y = 42.0346		a = -3.45203
+Portion:    232ml
+Coffee:
+START:  21h 42min	STOP: 21h 42min
+y = 6.16441		a = -2.72452
+Portion:   1169ml
+Coffee:
+START:  22h 44min	STOP: 22h 44min
+y = 1.73205		a = -2.54135
+Portion:     99ml
+Sleep:
+START:  22h 46min	STOP: 23h 26min
+y = 100   		a = -1.272
+Length:  0h 40min
+goal function value: 2.896136
+DayActions: 
+Start factors:
+y = 36    		a = -2.446
+
+Collection:
+Coffee:
+START:   0h  1min	STOP:  0h  1min
+y = 38.1366		a = -1.88138
+Portion:    640ml
+Coffee:
+START:   0h 34min	STOP:  0h 34min
+y = 3.31662		a = -1.63103
+Portion:    347ml
+Sleep:
+START:   2h 33min	STOP:  4h 21min
+y = 100   		a = -0.91908
+Length:  1h 48min
+Coffee:
+START:   7h 11min	STOP:  7h 11min
+y = 3     		a = -0.819845
+Portion:    280ml
+Sleep:
+START:   8h 46min	STOP: 10h 34min
+y = 100   		a = -0.91908
+Length:  1h 48min
+Coffee:
+START:  13h  0min	STOP: 13h  0min
+y = 2.64575		a = -0.836246
+Portion:    233ml
+Sleep:
+START:  13h 47min	STOP: 23h 59min
+y = 100   		a = -0.46548
+Length: 10h 12min
+goal function value: 7.785358
+DayActions: 
+Start factors:
+y = 42    		a = -0.543
+
+Collection:
+Coffee:
+START:   1h 18min	STOP:  1h 18min
+y = 4.24264		a = -0.420013
+Portion:    564ml
+Sleep:
+START:   2h  6min	STOP: 16h  9min
+y = 100   		a = -1.53097
+Length: 14h  3min
+Coffee:
+START:  17h  2min	STOP: 17h  2min
+y = 24.0549		a = -1.27166
+Portion:    835ml
+Coffee:
+START:  17h 10min	STOP: 17h 10min
+y = 15.6136		a = -1.18565
+Portion:    101ml
+Sleep:
+START:  17h 21min	STOP: 19h  8min
+y = 100   		a = -0.923767
+Length:  1h 47min
+Sleep:
+START:  23h  6min	STOP: 23h 50min
+y = 100   		a = -1.24932
+Length:  0h 44min
+goal function value: 7.819428
+DayActions: 
+Start factors:
+y = 83    		a = -3.282
+
+Collection:
+Sleep:
+START:   0h 14min	STOP:  0h 54min
+y = 100   		a = -1.272
+Length:  0h 40min
+Sleep:
+START:   0h 58min	STOP: 16h 33min
+y = 100   		a = -2.17819
+Length: 15h 35min
+Sleep:
+START:  17h 13min	STOP: 20h  3min
+y = 100   		a = -0.65775
+Length:  2h 50min
+Sleep:
+START:  20h 47min	STOP: 22h 49min
+y = 100   		a = -0.85503
+Length:  2h  2min
+goal function value: 9.412944
+DayActions: 
+Start factors:
+y = 5     		a = -4.977
+
+Collection:
+Coffee:
+START:   0h 13min	STOP:  0h 13min
+y = 6.78233		a = -3.65758
+Portion:   1409ml
+Sleep:
+START:   2h 43min	STOP:  4h  6min
+y = 100   		a = -1.04077
+Length:  1h 23min
+Sleep:
+START:   4h 38min	STOP: 23h 36min
+y = 100   		a = -4.05543
+Length: 18h 58min
+goal function value: 2.746429
+DayActions: 
+Start factors:
+y = 5     		a = -6.208
+
+Collection:
+Sleep:
+START:   0h 57min	STOP: 21h 50min
+y = 100   		a = -5.39317
+Length: 20h 53min
+Coffee:
+START:  23h 36min	STOP: 23h 36min
+y = 2.44949		a = -4.32321
+Portion:    188ml
+goal function value: 1.520275
+DayActions: 
+Start factors:
+y = 97    		a = -8.278
+
+Collection:
+Coffee:
+START:   0h  2min	STOP:  0h  2min
+y = 85.0266		a = -6.36032
+Portion:    655ml
+Coffee:
+START:   0h 21min	STOP:  0h 21min
+y = 3.87298		a = -5.46087
+Portion:    468ml
+Sleep:
+START:   0h 23min	STOP:  1h 33min
+y = 100   		a = -1.10775
+Length:  1h 10min
+Coffee:
+START:   1h 34min	STOP:  1h 34min
+y = 100   		a = -0.986017
+Portion:    377ml
+Sleep:
+START:   1h 38min	STOP: 24h  0min
+y = 100   		a = -6.56463
+Length: 22h 22min
+goal function value: 0.839639
+DayActions: 
+Start factors:
+y = 9     		a = -6.097
+
+Collection:
+Sleep:
+START:   0h  7min	STOP:  1h  1min
+y = 100   		a = -1.19367
+Length:  0h 54min
+Sleep:
+START:   2h  6min	STOP:  5h 59min
+y = 100   		a = -0.451268
+Length:  3h 53min
+Sleep:
+START:   6h  0min	STOP: 23h 17min
+y = 100   		a = -3.04417
+Length: 17h 17min
+goal function value: 4.936527
+DayActions: 
+Start factors:
+y = 12    		a = -0.932
+
+Collection:
+Sleep:
+START:   2h 11min	STOP:  9h 20min
+y = 100   		a = -0.189608
+Length:  7h  9min
+Coffee:
+START:  13h 33min	STOP: 13h 33min
+y = 57.5971		a = -0.14295
+Portion:    945ml
+Sleep:
+START:  15h 29min	STOP: 19h 10min
+y = 100   		a = -0.486008
+Length:  3h 41min
+Coffee:
+START:  22h 26min	STOP: 22h 26min
+y = 6.9786		a = -0.438494
+Portion:    164ml
+goal function value: 24.557599
+DayActions: 
+Start factors:
+y = 92    		a = -4.194
+
+Collection:
+Sleep:
+START:   0h  8min	STOP:  1h 26min
+y = 100   		a = -1.06623
+Length:  1h 18min
+Sleep:
+START:   1h 35min	STOP: 19h 34min
+y = 100   		a = -3.44611
+Length: 17h 59min
+Coffee:
+START:  19h 44min	STOP: 19h 44min
+y = 69.1445		a = -2.70344
+Portion:    393ml
+Sleep:
+START:  19h 44min	STOP: 23h 23min
+y = 100   		a = -0.492008
+Length:  3h 39min
+Coffee:
+START:  23h 26min	STOP: 23h 26min
+y = 100   		a = -0.396357
+Portion:   1107ml
+goal function value: 3.955324
+DayActions: 
+Start factors:
+y = 49    		a = -2.598
+
+Collection:
+Sleep:
+START:   0h  3min	STOP: 10h 34min
+y = 100   		a = -0.522908
+Length: 10h 31min
+Coffee:
+START:  10h 35min	STOP: 10h 35min
+y = 100   		a = -0.388207
+Portion:   1215ml
+Coffee:
+START:  17h 20min	STOP: 17h 20min
+y = 3     		a = -0.350311
+Portion:    285ml
+goal function value: 9.001407
+DayActions: 
+Start factors:
+y = 20    		a = -0.589
+
+Collection:
+Sleep:
+START:   1h  8min	STOP: 11h 52min
+y = 100   		a = -0.56532
+Length: 10h 44min
+Coffee:
+START:  11h 56min	STOP: 11h 56min
+y = 100   		a = -0.41476
+Portion:   1442ml
+Sleep:
+START:  12h  8min	STOP: 13h  9min
+y = 100   		a = -1.15561
+Length:  1h  1min
+Sleep:
+START:  13h 18min	STOP: 13h 40min
+y = 100   		a = -1.37703
+Length:  0h 22min
+Sleep:
+START:  14h 51min	STOP: 23h 47min
+y = 100   		a = -0.28992
+Length:  8h 56min
+goal function value: 5.300007
+DayActions: 
+Start factors:
+y = 65    		a = -6.61
+
+Collection:
+Sleep:
+START:   1h 43min	STOP:  2h  7min
+y = 100   		a = -1.36512
+Length:  0h 24min
+Sleep:
+START:   2h 40min	STOP:  5h 26min
+y = 100   		a = -0.67287
+Length:  2h 46min
+Coffee:
+START:   6h 38min	STOP:  6h 38min
+y = 57.3843		a = -0.504863
+Portion:   1026ml
+Coffee:
+START:   8h  9min	STOP:  8h  9min
+y = 15.3148		a = -0.443301
+Portion:    474ml
+Sleep:
+START:  10h  9min	STOP: 12h 13min
+y = 100   		a = -0.84612
+Length:  2h  4min
+Sleep:
+START:  15h 24min	STOP: 23h 47min
+y = 100   		a = -0.240668
+Length:  8h 23min
+goal function value: 12.973688
+DayActions: 
+Start factors:
+y = 25    		a = -5.135
+
+Collection:
+Coffee:
+START:   2h 25min	STOP:  2h 25min
+y = 5.83095		a = -3.84861
+Portion:   1045ml
+Sleep:
+START:   4h 21min	STOP:  7h 42min
+y = 100   		a = -0.548708
+Length:  3h 21min
+Coffee:
+START:  11h 23min	STOP: 11h 23min
+y = 3.87298		a = -0.483064
+Portion:    455ml
+Sleep:
+START:  15h 48min	STOP: 16h 41min
+y = 100   		a = -1.19917
+Length:  0h 53min
+Sleep:
+START:  17h 40min	STOP: 22h 36min
+y = 100   		a = -0.30432
+Length:  4h 56min
+goal function value: 13.957124
+DayActions: 
+Start factors:
+y = 34    		a = -1.591
+
+Collection:
+Coffee:
+START:   0h  0min	STOP:  0h  0min
+y = 40.8557		a = -1.16822
+Portion:   1426ml
+Sleep:
+START:   0h 25min	STOP: 23h 17min
+y = 100   		a = -6.98628
+Length: 22h 52min
+Sleep:
+START:  23h 18min	STOP: 23h 53min
+y = 100   		a = -1.30069
+Length:  0h 35min
+goal function value: 1.027467
+DayActions: 
+Start factors:
+y = 56    		a = -9.749
+
+Collection:
+Sleep:
+START:   0h  9min	STOP: 21h 38min
+y = 100   		a = -5.85271
+Length: 21h 29min
+Coffee:
+START:  22h 46min	STOP: 22h 46min
+y = 4.12311		a = -4.53972
+Portion:    528ml
+Coffee:
+START:  22h 57min	STOP: 22h 57min
+y = 5.65685		a = -3.72865
+Portion:    972ml
+goal function value: 0.682356
+DayActions: 
+Start factors:
+y = 59    		a = -8.63
+
+Collection:
+Coffee:
+START:   2h 27min	STOP:  2h 27min
+y = 6.78233		a = -6.35155
+Portion:   1380ml
+Coffee:
+START:   4h  6min	STOP:  4h  6min
+y = 2     		a = -5.89826
+Portion:    120ml
+Sleep:
+START:   4h 12min	STOP:  5h 59min
+y = 100   		a = -0.923767
+Length:  1h 47min
+Sleep:
+START:  10h 58min	STOP: 20h 59min
+y = 100   		a = -0.434708
+Length: 10h  1min
+goal function value: 11.381213
+DayActions: 
+Start factors:
+y = 51    		a = -0.445
+
+Collection:
+Sleep:
+START:   0h 34min	STOP:  1h 33min
+y = 100   		a = -1.16641
+Length:  0h 59min
+Sleep:
+START:   1h 45min	STOP:  6h 13min
+y = 100   		a = -0.36228
+Length:  4h 28min
+Sleep:
+START:   6h 20min	STOP:  8h 59min
+y = 100   		a = -0.699908
+Length:  2h 39min
+Sleep:
+START:   9h 15min	STOP: 20h 51min
+y = 100   		a = -0.76032
+Length: 11h 36min
+Sleep:
+START:  21h 19min	STOP: 23h 21min
+y = 100   		a = -0.85503
+Length:  2h  2min
+goal function value: 8.279071
+DayActions: 
+Start factors:
+y = 26    		a = -2.248
+
+Collection:
+Sleep:
+START:   0h  9min	STOP:  2h 20min
+y = 100   		a = -0.815408
+Length:  2h 11min
+Sleep:
+START:   2h 26min	STOP:  2h 54min
+y = 100   		a = -1.34148
+Length:  0h 28min
+Sleep:
+START:   4h  2min	STOP:  4h 23min
+y = 100   		a = -1.38301
+Length:  0h 21min
+Sleep:
+START:   4h 32min	STOP: 22h 54min
+y = 100   		a = -3.67743
+Length: 18h 22min
+goal function value: 5.581282
+DayActions: 
+Start factors:
+y = 94    		a = -3.468
+
+Collection:
+Coffee:
+START:   2h 57min	STOP:  2h 57min
+y = 7     		a = -2.53817
+Portion:   1491ml
+Sleep:
+START:  11h  0min	STOP: 19h 15min
+y = 100   		a = -0.231188
+Length:  8h 15min
+goal function value: 14.017799
+DayActions: 
+Start factors:
+y = 10    		a = -7.466
+
+Collection:
+Coffee:
+START:   0h 14min	STOP:  0h 14min
+y = 3.87298		a = -5.82211
+Portion:    462ml
+Coffee:
+START:   0h 28min	STOP:  0h 28min
+y = 4.12311		a = -4.90387
+Portion:    521ml
+Sleep:
+START:   1h 12min	STOP: 23h  5min
+y = 100   		a = -6.16987
+Length: 21h 53min
+Coffee:
+START:  23h 35min	STOP: 23h 35min
+y = 4.12311		a = -5.38582
+Portion:    517ml
+goal function value: 0.553265
+DayActions: 
+Start factors:
+y = 21    		a = -4.643
+
+Collection:
+Sleep:
+START:   0h 10min	STOP:  0h 38min
+y = 100   		a = -1.34148
+Length:  0h 28min
+Coffee:
+START:   0h 59min	STOP:  0h 59min
+y = 78.4622		a = -0.989294
+Portion:   1341ml
+Coffee:
+START:   1h  3min	STOP:  1h  3min
+y = 76.7411		a = -0.911762
+Portion:    159ml
+Sleep:
+START:   1h 45min	STOP:  3h 48min
+y = 100   		a = -0.850568
+Length:  2h  3min
+Sleep:
+START:   3h 53min	STOP: 19h  5min
+y = 100   		a = -2.00448
+Length: 15h 12min
+Sleep:
+START:  19h 31min	STOP: 22h 49min
+y = 100   		a = -0.55863
+Length:  3h 18min
+Sleep:
+START:  23h 17min	STOP: 23h 52min
+y = 100   		a = -1.30069
+Length:  0h 35min
+goal function value: 7.094390
+DayActions: 
+Start factors:
+y = 67    		a = -6.03
+
+Collection:
+Coffee:
+START:   0h 25min	STOP:  0h 25min
+y = 6.7082		a = -4.44141
+Portion:   1365ml
+Sleep:
+START:   0h 27min	STOP:  0h 55min
+y = 100   		a = -1.34148
+Length:  0h 28min
+Sleep:
+START:   1h 11min	STOP: 22h 36min
+y = 100   		a = -5.80069
+Length: 21h 25min
+Coffee:
+START:  22h 51min	STOP: 22h 51min
+y = 14.9897		a = -5.37057
+Portion:    135ml
+goal function value: 1.829936
+DayActions: 
+Start factors:
+y = 31    		a = -1.479
+
+Collection:
+Sleep:
+START:   0h  0min	STOP:  1h  1min
+y = 100   		a = -1.15561
+Length:  1h  1min
+Coffee:
+START:   1h  7min	STOP:  1h  7min
+y = 95.7121		a = -0.921214
+Portion:    234ml
+Coffee:
+START:   1h 16min	STOP:  1h 16min
+y = 93.2521		a = -0.733241
+Portion:   1024ml
+Sleep:
+START:   1h 39min	STOP:  2h 21min
+y = 100   		a = -1.26063
+Length:  0h 42min
+Coffee:
+START:   2h 26min	STOP:  2h 26min
+y = 96.5253		a = -1.14533
+Portion:    242ml
+Sleep:
+START:   3h  9min	STOP: 23h 59min
+y = 100   		a = -5.35575
+Length: 20h 50min
+goal function value: 4.829861
+DayActions: 
+Start factors:
+y = 43    		a = -6.711
+
+Collection:
+Coffee:
+START:   0h  6min	STOP:  0h  6min
+y = 7.0929		a = -5.18509
+Portion:    579ml
+Sleep:
+START:   2h 24min	STOP:  6h 44min
+y = 100   		a = -0.381
+Length:  4h 20min
+Coffee:
+START:   7h  3min	STOP:  7h  3min
+y = 97.5568		a = -0.319591
+Portion:    704ml
+Coffee:
+START:   8h 18min	STOP:  8h 18min
+y = 76.2332		a = -0.291559
+Portion:    217ml
+Sleep:
+START:   8h 27min	STOP: 12h  6min
+y = 100   		a = -0.492008
+Length:  3h 39min
+Sleep:
+START:  12h 11min	STOP: 13h  7min
+y = 100   		a = -1.18272
+Length:  0h 56min
+Sleep:
+START:  15h 25min	STOP: 21h 24min
+y = 100   		a = -0.216908
+Length:  5h 59min
+Sleep:
+START:  22h 52min	STOP: 23h 23min
+y = 100   		a = -1.32391
+Length:  0h 31min
+goal function value: 16.846702
+DayActions: 
+Start factors:
+y = 52    		a = -0.386
+
+Collection:
+Coffee:
+START:   0h  1min	STOP:  0h  1min
+y = 55.9729		a = -0.29801
+Portion:    589ml
+Sleep:
+START:   4h 23min	STOP:  6h 24min
+y = 100   		a = -0.859507
+Length:  2h  1min
+Sleep:
+START:   6h 27min	STOP: 18h 44min
+y = 100   		a = -0.942668
+Length: 12h 17min
+goal function value: 8.104746
+DayActions: 
+Start factors:
+y = 24    		a = -9.878
+
+Collection:
+Sleep:
+START:   2h 18min	STOP:  5h 10min
+y = 100   		a = -0.65028
+Length:  2h 52min
+Coffee:
+START:   6h 23min	STOP:  6h 23min
+y = 57.6286		a = -0.494447
+Portion:    809ml
+Coffee:
+START:   8h 34min	STOP:  8h 34min
+y = 4.79583		a = -0.421713
+Portion:    691ml
+Sleep:
+START:   8h 43min	STOP: 16h 41min
+y = 100   		a = -0.21423
+Length:  7h 58min
+goal function value: 22.141965
+DayActions: 
+Start factors:
+y = 91    		a = -7.02
+
+Collection:
+Sleep:
+START:   2h  6min	STOP:  8h 56min
+y = 100   		a = -0.18975
+Length:  6h 50min
+Coffee:
+START:   9h 34min	STOP:  9h 34min
+y = 96.7895		a = -0.147677
+Portion:    486ml
+Coffee:
+START:  11h 31min	STOP: 11h 31min
+y = 84.8964		a = -0.121569
+Portion:    879ml
+Coffee:
+START:  12h 59min	STOP: 12h 59min
+y = 76.1983		a = -0.112555
+Portion:    135ml
+Sleep:
+START:  16h 56min	STOP: 20h  4min
+y = 100   		a = -0.59268
+Length:  3h  8min
+Sleep:
+START:  20h 53min	STOP: 23h 41min
+y = 100   		a = -0.66528
+Length:  2h 48min
+goal function value: 29.133422
